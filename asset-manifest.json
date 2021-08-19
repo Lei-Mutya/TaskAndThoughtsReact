@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/TaskAndThoughtsReact/static/css/main.9780ec91.chunk.css",
+    "main.js": "/TaskAndThoughtsReact/static/js/main.57689224.chunk.js",
+    "main.js.map": "/TaskAndThoughtsReact/static/js/main.57689224.chunk.js.map",
+    "runtime-main.js": "/TaskAndThoughtsReact/static/js/runtime-main.ae17baa1.js",
+    "runtime-main.js.map": "/TaskAndThoughtsReact/static/js/runtime-main.ae17baa1.js.map",
+    "static/js/2.52f84d62.chunk.js": "/TaskAndThoughtsReact/static/js/2.52f84d62.chunk.js",
+    "static/js/2.52f84d62.chunk.js.map": "/TaskAndThoughtsReact/static/js/2.52f84d62.chunk.js.map",
+    "static/js/3.ffa6ef65.chunk.js": "/TaskAndThoughtsReact/static/js/3.ffa6ef65.chunk.js",
+    "static/js/3.ffa6ef65.chunk.js.map": "/TaskAndThoughtsReact/static/js/3.ffa6ef65.chunk.js.map",
+    "index.html": "/TaskAndThoughtsReact/index.html",
+    "static/css/main.9780ec91.chunk.css.map": "/TaskAndThoughtsReact/static/css/main.9780ec91.chunk.css.map",
+    "static/js/2.52f84d62.chunk.js.LICENSE.txt": "/TaskAndThoughtsReact/static/js/2.52f84d62.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/TaskAndThoughtsReact/static/media/pad.173d6043.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ae17baa1.js",
+    "static/js/2.52f84d62.chunk.js",
+    "static/css/main.9780ec91.chunk.css",
+    "static/js/main.57689224.chunk.js"
+  ]
+}
